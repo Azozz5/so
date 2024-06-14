@@ -143,7 +143,7 @@ div#l2 ,div#l3, div#l1 {
     margin-bottom: 2px;
     border-top: 0px solid;
     margin-top: 0px;
-    border-color: #108378;
+    border-color: #c86184;
     border-radius: 15px;
     height: 69px;
 }
@@ -171,8 +171,8 @@ label.fl.label.loginstat.label-success, .fr.borderg, .label.label.label-primary.
     background-image: url();
     background-color: #ffffff;
   }
-  .lonline.light.break{background-image: url();background-size: inherit;border-top:5px groove #108378;padding-top:5px}
-  .sultan111,div#d2{background-repeat: no-repeat;background-size: contain;background-image: url();background-color:#ffffff}a.label.label-primary.fl{height:35px;border-radius:19px 19px 0 0!important;padding:8px!important;border:2px solid #4bafa5}
+  .lonline.light.break{background-image: url();background-size: inherit;border-top:5px groove #c86184;padding-top:5px}
+  .sultan111,div#d2{background-repeat: no-repeat;background-size: contain;background-image: url();background-color:#ffffff}a.label.label-primary.fl{height:35px;border-radius:19px 19px 0 0!important;padding:8px!important;border:2px solid #E4A4BC}
 }
 
 label.fl.label.loginstat.label-success, .fr.borderg, .label.label.label-primary.mini.fl {
@@ -187,7 +187,7 @@ label.fl.label.loginstat.label-success {
 }
 .fl.label.loginstat.label-success, .fl.label.loginstat.label-info {
     color: #c86184;
-    border: 1px solid #e2e0e0;
+    border: 1px solid #E4A4BC;
     border-radius: 5px 5px 5px 5px;
     margin-top: 1px;
     background-color: #FFFFFF!important;
@@ -215,7 +215,7 @@ label.label.tc.border.btn.fl {
     border-radius: 15px 15px 15px 15px;
 }
 .label.tc.border.btn.fl, .label.tc.border.btn.fl {
-    border: 1px solid #c9d3e4;
+    border: 1px solid #E4A4BC;
     border-radius: 5px 5px 5px 5px;
 }
 label.tc {
